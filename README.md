@@ -1,7 +1,7 @@
 ## Hi there! I'm Ricardo 👋
 
 - 🔭 I’m currently a Software Engineering Student at Universidade do Minho
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m focusing on learning more about Web Development
 - 📫 How to reach me: ricsousa2004@gmail.com
 - ⚡ Fun fact: I named my cat after a race car with this (⚡) emblem
 
