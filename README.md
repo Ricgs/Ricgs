@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a **Master's Student in Software Engineering** at Universidade do Minho
 - 🌱 I’m specializing in **Front-End Development**
-- 🤝 I actively contribute to the community as a **Co-Director at CeSIUM** and a **Mentor at CoderDojo Braga**
+- 🤝 Currently contributing as a **Co-Director at CeSIUM** and a **Mentor at CoderDojo Braga**
 - 📫 How to reach me: [ricsousa2004@gmail.com](mailto:ricsousa2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ricgsousa)
 - ⚡ Fun fact: I named my cat after a race car with this (⚡) emblem
 
